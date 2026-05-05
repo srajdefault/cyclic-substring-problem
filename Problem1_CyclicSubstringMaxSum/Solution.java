@@ -1,4 +1,3 @@
-Problem1_CyclicSubstringMaxSum/Solution.java
 import java.util.*;
 
 public class Main {
