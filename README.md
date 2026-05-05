@@ -1,4 +1,4 @@
-# Cyclic Substring Problems
+# Dsa Problems Solution
 
 **Prepared by:** Sumit Raj
 
